@@ -1,6 +1,6 @@
 {
     "name": "tjcdeveloper/wordle-helper",
-    "description": "Wordle solver helper, will provide a list of valid words given known factors.",
+    "description": "Wordle helper, will provide a list of valid words given known factors.",
     "type": "project",
     "license": "MIT",
     "authors": [
