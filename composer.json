@@ -1,0 +1,15 @@
+{
+    "name": "tjcdeveloper/wordle-helper",
+    "description": "Wordle solver helper, will provide a list of valid words given known factors.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tony Christopher",
+            "email": "tony@tjcdeveloper.co.uk"
+        }
+    ],
+    "require": {
+        "symfony/console": "^6.0"
+    }
+}
